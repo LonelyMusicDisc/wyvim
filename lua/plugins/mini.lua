@@ -1,7 +1,7 @@
 -- vim: foldmethod=marker foldlevel=0
 -- A collection of small and helpful modules.
 local P = {
-	"echasnovski/mini.nvim",
+	"nvim-mini/mini.nvim",
 	version = false,
 	lazy = false,
 }
